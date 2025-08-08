@@ -1,0 +1,8 @@
+tensorflow-macos
+tensorflow-metal
+fastapi
+python-multipart
+uvicorn[standard]
+pillow
+numpy
+scipy

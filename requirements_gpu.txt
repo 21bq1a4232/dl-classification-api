@@ -1,0 +1,6 @@
+# GPU TF should match your CUDA/cuDNN versions; often installed via pip as tensorflow (or from tensorflow.org)
+tensorflow     # install system-specific GPU build per TF docs (or use conda)
+fastapi
+uvicorn[standard]
+pillow
+numpy

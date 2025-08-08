@@ -1,0 +1,5 @@
+tensorflow==2.12.0   # CPU-only binary (pick a version compatible with your platform)
+fastapi
+uvicorn[standard]
+pillow
+numpy
